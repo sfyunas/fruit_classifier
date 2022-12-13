@@ -21,7 +21,7 @@ from tempfile import NamedTemporaryFile
 # Loading the model pipeline
 #----------------------------
 
-model = load_model('models/fruits_cnn_v05.h5')
+model = load_model('Model/fruits_cnn_v04.h5')
 
 st.set_option('deprecation.showfileUploaderEncoding', False)
 
