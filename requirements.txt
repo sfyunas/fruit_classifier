@@ -1,4 +1,5 @@
 tensorflow==2.9.1
+protobuf==3.19.4
 streamlit==1.11.0
 keras-preprocessing==1.1.2
 numpy==1.22.3
