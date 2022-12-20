@@ -53,14 +53,14 @@ When unzipped, the structure of the data folder is as following:
 - Pull the repository to local drive
 - In the terminal/command prompt, navigate to the directory containing app.py
 - Type in the command: 
-
+```
 streamlit run app.py
 ```
 
 ## Model performance
 The model has been trained on limited dataset which contains clean 'studio-type' images of the five fruit classes with clear background. The validation and test datasets also correspond to the training dataset. As such, the model is able to achieve 98% accuracy on the test set. 
 The fruit classifier app, however, is unable to accurately predict any images of the fruit having rich background. In future, I intend to collect further images dataset, of the five fruit classes, and re-train the model to increase its classification accuracy on fruit images with diverse backgrounds.
-```
+
 ## Streamlit User Interface
 
 ![](./app_interface/streamlit-app.png)
