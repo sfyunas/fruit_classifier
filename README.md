@@ -63,4 +63,4 @@ The fruit classifier app, however, is unable to accurately predict any images of
 
 ## Streamlit User Interface
 
-![](./app_interface/streamlit-app.png)
+![](app_interface/streamlit-app.png)
