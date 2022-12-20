@@ -8,6 +8,7 @@ The app uses a trained CNN model, as its prediction engine, which has a classifi
 
 ```
 |-- Model                             # contains the trained CNN model
+|-- app_interface
 |-- python - code
 |   |-- archive models                # cotains old python code files for training CNN
 |   |-- cnn_tuned_architecture.py     # final code used for training the model
